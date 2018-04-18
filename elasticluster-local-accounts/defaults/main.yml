@@ -35,8 +35,8 @@ accounts_to_create:
 
 # http://docs.ansible.com/ansible/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module
 
-# SIB.course.2017a
-students_password: "$6$9xivpKD3k8mPLYv$w5tkEqj5yREVfWPHRy6puX6evoLQdPIjT6KlWfr9RWpYwuVrKeHo5Qus31QDFa6CpeeebCXss.H/UwNt09GNV0"
+# SIBtest123
+students_password: "$6$JIWIFgsapZ$PPNJdbPMUbjaiymvVYi1H0E.7N1y5MFQGIT4ejbLFk1/3npMqwp.oVD9PRsB3mbObRJEeQganvb5reTrRJ.Mv/"
 
 # Igotroot!
 teacher_password: "$6$b7ssR4UtQNO$x/qgMaRaLBbrHghGcdidMbQ8rXdw/q9QvCKQH1cbl7oTrxrvegq0CqgzjdA0kls/9RRxlNOKsQ6ubOXG8ur66."
